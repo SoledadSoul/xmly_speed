@@ -15,7 +15,7 @@ import os
 # 使用参考 xmly_speed.md
 # cookies填写
 
-cookies1 = ""  # 字符串形式 都可以识别
+cookies1 = "_xmLog=xm_kfz6g4v97p4des; 1&_device=iPhone&E81E4191-FB8D-4AC7-B46F-45E3969F4874&1.1.10; 1&_token=259485947&02EC9FD0240N760CE76C0CEF5B54CC3870DEC8D5FF99A85642CE5179ACD3A8BFBDA82DEE57DA38MD3BD8D0BCC85C24_; NSUP=42E86750%2C41BC83D2%2C1602062123008; XUM=E81E4191-FB8D-4AC7-B46F-45E3969F4874; ainr=0; c-oper=%E6%9C%AA%E7%9F%A5; channel=ios-b1; device_model=iPhone 5s; idfa=E81E4191-FB8D-4AC7-B46F-45E3969F4874; impl=com.ximalaya.tingLite; ip=10.144.108.173; net-mode=WIFI; res=640%2C1136"  # 字符串形式 都可以识别
 cookies2 = {
 }  # 字典形式
 
